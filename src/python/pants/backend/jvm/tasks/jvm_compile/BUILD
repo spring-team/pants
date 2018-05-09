@@ -75,9 +75,6 @@ python_library(
   dependencies = [
     '3rdparty/python/twitter/commons:twitter.common.collections',
     '3rdparty/python:six',
-    ':analysis',
-    ':analysis_parser',
-    ':analysis_tools',
     ':jvm_compile',
     'src/python/pants/backend/jvm/subsystems:compile_subsystem',
     'src/python/pants/backend/jvm/subsystems:java',
