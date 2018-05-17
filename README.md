@@ -33,3 +33,5 @@ Additionally, if you use the jvm backend to work with java or scala code (instal
 I believe in you. You can do the thing!
 
 Life is its own reason for being. It is beautiful to have a sense of beauty.
+
+Our bodies and minds are capable of far more than our psyche will let us achieve.
