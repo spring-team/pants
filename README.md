@@ -31,3 +31,5 @@ Additionally, if you use the jvm backend to work with java or scala code (instal
 * OpenJDK or Oracle JDK version 7 or greater
 
 I believe in you. You can do the thing!
+
+Life is its own reason for being. It is beautiful to have a sense of beauty.
